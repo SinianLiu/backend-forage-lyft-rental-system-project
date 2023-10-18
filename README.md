@@ -1,2 +1,2 @@
 # Forage Lyft virtual experience program
-### a good practice for unit testing and TTD development
+### a good practice for python unit testing, TTD development and design pattern.
